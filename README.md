@@ -1,2 +1,2 @@
-# shilohwebsite
-Shiloh Women's Center Redesign
+# Shiloh Website
+2018 Shiloh Women's Center Redesign
