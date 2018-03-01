@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.shilohhomeofhope.org/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Shiloh/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Pregnancy/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Shelter/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Special/Credit/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Activities/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Help/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Contact/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Content/ResidentApplication.pdf</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Special/Credit/ECDP_Brochure.pdf</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Special/Credit/ECDP_Info_Packet.pdf</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.shilohhomeofhope.org/Content/VoluteerApplication.pdf</loc>
+  <priority>0.64</priority>
+</url>
+</urlset>
