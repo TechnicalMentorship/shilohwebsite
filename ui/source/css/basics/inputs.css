@@ -1,0 +1,22 @@
+.input {
+
+	&:disabled {
+
+	}
+}
+
+.input--select-menu {
+
+}
+
+.input--radio, .input--checkbox {
+
+}
+
+.input--textarea {
+
+}
+
+.input--invalid {
+
+}
